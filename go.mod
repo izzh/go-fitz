@@ -1,4 +1,4 @@
-module github.com/gen2brain/go-fitz
+module github.com/izzh/go-fitz
 
 go 1.21
 
